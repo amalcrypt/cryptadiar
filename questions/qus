@@ -1,0 +1,7 @@
+create a simple html web page with links to 3 other pages.a profile page,gallery page,a contact form page
+on the gallery page include atleast 3 images with captions and on the profile page use an html page to display table basic information,
+
+2.create a new html file name iframe_practice.html
+add an i frame to embedded google in to your web age with specifide with 600px and height of 400px
+below this embedd a utube video choose nay viedo url setting the witdh to 560px and height 350px
+add captions or titile above each iframe to indicate wHAT Contant is displayed
